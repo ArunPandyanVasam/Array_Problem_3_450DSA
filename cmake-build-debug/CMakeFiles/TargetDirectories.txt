@@ -1,0 +1,3 @@
+/home/avasam/CLionProjects/Array-Problem-3_450DSA/cmake-build-debug/CMakeFiles/Array_Problem_3_450DSA.dir
+/home/avasam/CLionProjects/Array-Problem-3_450DSA/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/avasam/CLionProjects/Array-Problem-3_450DSA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
